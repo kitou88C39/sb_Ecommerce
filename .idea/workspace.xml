@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="src/pom.xmlにコードを追加する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Adminプロジェクトを作成する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +72,22 @@
       <option name="project" value="LOCAL" />
       <updated>1711613051772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adminプロジェクトを作成する">
+      <option name="closed" value="true" />
+      <created>1711614044516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711614044516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Libraryプロジェクトを作成する" />
     <MESSAGE value="src/pom.xmlにコードを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="src/pom.xmlにコードを追加する" />
+    <MESSAGE value="Adminプロジェクトを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adminプロジェクトを作成する" />
   </component>
 </project>
