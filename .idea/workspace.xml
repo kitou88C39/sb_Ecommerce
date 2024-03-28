@@ -198,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711625294144</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711625417099</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711625417099</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
