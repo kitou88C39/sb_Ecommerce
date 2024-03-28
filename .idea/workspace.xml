@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Adminプロジェクトを作成する">
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="src/pom.xmlにコードを追加する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/Library/LibraryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/LibraryApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -80,14 +83,22 @@
       <option name="project" value="LOCAL" />
       <updated>1711614044516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="src/pom.xmlにコードを追加する">
+      <option name="closed" value="true" />
+      <created>1711614933653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711614933653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Libraryプロジェクトを作成する" />
-    <MESSAGE value="src/pom.xmlにコードを追加する" />
     <MESSAGE value="Adminプロジェクトを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adminプロジェクトを作成する" />
+    <MESSAGE value="src/pom.xmlにコードを追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="src/pom.xmlにコードを追加する" />
   </component>
 </project>
