@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.libraryにmodelとrepositoryとserviceとdtoとutilsフォルダを作成する">
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Role.java" afterDir="false" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Role.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Library/src/main/java/com/example/library" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -104,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711616299287</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711623432357</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711623432357</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +128,7 @@
     <MESSAGE value="Adminプロジェクトを作成する" />
     <MESSAGE value="src/pom.xmlにコードを追加する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.libraryにmodelとrepositoryとserviceとdtoとutilsフォルダを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.libraryにmodelとrepositoryとserviceとdtoとutilsフォルダを作成する" />
+    <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する" />
   </component>
 </project>
