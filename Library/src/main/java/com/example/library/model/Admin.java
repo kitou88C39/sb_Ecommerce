@@ -1,5 +1,7 @@
 package com.example.library.model;
 
+import java.util.Collection;
+
 public class Admin {
     private Long id;
 
@@ -8,4 +10,6 @@ public class Admin {
     private  String username;
     private  String password;
     private  String image;
+
+    private Collection<Role> roles;
 }
