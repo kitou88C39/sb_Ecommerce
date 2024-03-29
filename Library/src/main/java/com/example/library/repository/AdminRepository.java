@@ -7,7 +7,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface AdminRepository extends JpaRepository<Admin, Long> {
-
-    @Query(value = "query", nativeQuery = true)
     Admin findByUsername(String username);
 }
