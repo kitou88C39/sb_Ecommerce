@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/RoleRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Admin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711696222576</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711697170671</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711697170671</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711697449294</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711697449294</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
