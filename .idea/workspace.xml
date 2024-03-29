@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/dto/AdminDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/dto/AdminDto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -332,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711702417370</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711702587804</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711702587804</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,6 +355,7 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
+    <MESSAGE value="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する" />
   </component>
 </project>
