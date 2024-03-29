@@ -1,2 +1,7 @@
-package com.example.library.service;public interface AdminService {
+package com.example.library.service;
+
+import com.example.library.model.Admin;
+
+public interface AdminService {
+    Admin findByUsername(String username);
 }
