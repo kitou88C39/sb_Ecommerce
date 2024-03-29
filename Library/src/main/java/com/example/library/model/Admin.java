@@ -19,6 +19,8 @@ public class Admin {
     private  String lastName;
     private  String username;
     private  String password;
+    @Lob
+    @Column(columnDefinition = "MEDIUMBLOB")
     private  String image;
 
     private Collection<Role> roles;
