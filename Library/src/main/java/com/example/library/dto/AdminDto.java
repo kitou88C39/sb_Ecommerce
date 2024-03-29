@@ -10,9 +10,9 @@ import org.hibernate.validator.constraints.Length;
 public class AdminDto {
     @Size(min = 3, max = 10, message = "Invalid first name!(3-10 characters)")
     private String firstName;
-
+    @Size(min = 3, max = 10, message = "Invalid first name!(3-10 characters)")
     private String lastName;
-
+    @Size(min = 3, max = 15, message = "Invalid password!(5-15 characters)")
     private String username;
 
     private String password;
