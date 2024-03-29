@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/dto/AdminDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/dto/AdminDto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711709935030</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711710173325</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711710173325</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
