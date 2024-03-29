@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する">
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/AdminRepository.java" afterDir="false" />
-    </list>
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711699185668</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711699768446</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1711699768446</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +312,7 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する" />
+    <MESSAGE value="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
   </component>
 </project>

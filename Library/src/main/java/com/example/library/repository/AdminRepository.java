@@ -1,2 +1,6 @@
-package com.example.library.repository;public interface AdminRepository {
+package com.example.library.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AdminRepository extends JpaRepository {
 }
