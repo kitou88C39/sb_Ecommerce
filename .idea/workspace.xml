@@ -270,7 +270,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711698328438</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711698963468</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1711698963468</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711699022600</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1711699022600</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
