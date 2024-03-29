@@ -13,8 +13,8 @@ import java.util.Collection;
 public class Admin {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "admin_id")
     private Long id;
-
     private  String firstName;
     private  String lastName;
     private  String username;
