@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/Admin/AdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/Admin/AdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Libraryプロジェクトを作成する">
-      <option name="closed" value="true" />
-      <created>1711612604791</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1711612604791</updated>
     </task>
     <task id="LOCAL-00003" summary="src/pom.xmlにコードを追加する">
       <option name="closed" value="true" />
@@ -463,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711766645472</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する">
+      <option name="closed" value="true" />
+      <created>1711779171363</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1711779171363</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
