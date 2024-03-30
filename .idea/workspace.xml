@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する">
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/pom.xmlにコードを追加する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00003" summary="src/pom.xmlにコードを追加する">
-      <option name="closed" value="true" />
-      <created>1711613051772</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1711613051772</updated>
     </task>
     <task id="LOCAL-00004" summary="Adminプロジェクトを作成する">
       <option name="closed" value="true" />
@@ -463,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711779171363</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Admin/pom.xmlにコードを追加する">
+      <option name="closed" value="true" />
+      <created>1711780590450</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711780590450</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -480,6 +480,7 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにAdminService.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する" />
     <MESSAGE value="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する" />
+    <MESSAGE value="Admin/pom.xmlにコードを追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/pom.xmlにコードを追加する" />
   </component>
 </project>
