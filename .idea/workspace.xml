@@ -70,14 +70,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-    <task id="LOCAL-00005" summary="src/pom.xmlにコードを追加する">
-      <option name="closed" value="true" />
-      <created>1711614933653</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1711614933653</updated>
-    </task>
     <task id="LOCAL-00006" summary="Library/src/main/java/com.ecommerce.libraryにmodelとrepositoryとserviceとdtoとutilsフォルダを作成する">
       <option name="closed" value="true" />
       <created>1711616299287</created>
@@ -462,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711781518364</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Admin/resouces/application.propertiesを編集する">
+      <option name="closed" value="true" />
+      <created>1711781873301</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1711781873302</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
