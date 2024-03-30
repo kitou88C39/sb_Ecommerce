@@ -8,4 +8,8 @@ public class AdminServiceImpl implements AdminService {
     public Admin findByUsername(String username){
         return null;
     }
+    @Override
+    public Admin save(AdminDto adminDto){
+        return null;
+    }
 }
