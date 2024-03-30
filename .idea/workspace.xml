@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/resouces/application.propertiesを編集する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,30 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Library/src/main/java/com.ecommerce.libraryにmodelとrepositoryとserviceとdtoとutilsフォルダを作成する">
-      <option name="closed" value="true" />
-      <created>1711616299287</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1711616299287</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711623432357</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1711623432357</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711623676108</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1711623676109</updated>
     </task>
     <task id="LOCAL-00009" summary="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
       <option name="closed" value="true" />
@@ -462,7 +439,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711781873302</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Admin/resouces/application.propertiesを編集する">
+      <option name="closed" value="true" />
+      <created>1711782101389</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1711782101389</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Admin/resouces/application.propertiesを編集する">
+      <option name="closed" value="true" />
+      <created>1711782218303</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1711782218303</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Admin/resouces/application.propertiesを編集する">
+      <option name="closed" value="true" />
+      <created>1711782423442</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711782423442</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
