@@ -8,6 +8,8 @@ import com.example.library.service.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Arrays;
+
 @Service
 public class AdminServiceImpl implements AdminService {
 
@@ -27,6 +29,8 @@ public class AdminServiceImpl implements AdminService {
         admin.setFirstName(adminDto.getFirstName());
         admin.setLastName(adminDto.getLastName());
         admin.setUsername(adminDto.getUsername());
-        return null;
+        admin.setPassword(adminDto.getPassword());
+        admin.setRoles(Arrays.asList(roleRepository.findByName("ADMIN")));
+        return adminRepository.save(admin);
     }
 }
