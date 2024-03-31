@@ -95,14 +95,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-    <task id="LOCAL-00018" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711695083025</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1711695083025</updated>
-    </task>
     <task id="LOCAL-00019" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
       <option name="closed" value="true" />
       <created>1711695954021</created>
@@ -487,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711852769119</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711852965883</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1711852965883</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
