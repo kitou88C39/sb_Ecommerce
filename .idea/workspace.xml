@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/configにAdminServiceConfig.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminServiceConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,22 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711697449294</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1711697449294</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711697970822</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1711697970822</updated>
     </task>
     <task id="LOCAL-00025" summary="Library/src/main/java/com.ecommerce.library/repositoryにRoleRepository.javaを作成する">
       <option name="closed" value="true" />
@@ -486,7 +471,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711858963182</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Admin/src/java/com.example.admin/configにAdminServiceConfig.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711859123370</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1711859123370</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Admin/src/java/com.example.admin/configにAdminServiceConfig.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711860037914</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1711860037915</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
