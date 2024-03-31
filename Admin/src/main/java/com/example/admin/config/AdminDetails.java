@@ -1,4 +1,6 @@
 package com.example.admin.config;
 
-public class AdminDetails {
+import org.springframework.security.core.userdetails.UserDetails;
+
+public class AdminDetails implements UserDetails {
 }

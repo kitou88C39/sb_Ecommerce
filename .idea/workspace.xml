@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/resouces/application.propertiesを編集する">
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/Admin/AdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/AdminApplication.java" afterDir="false" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Library/src/main/java/com/example/library" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.admin" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="AdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -90,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Library/src/main/java/com.ecommerce.library/modelにRole.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711624556471</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1711624556471</updated>
     </task>
     <task id="LOCAL-00013" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
       <option name="closed" value="true" />
@@ -483,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711849419071</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711851009508</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711851009508</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -502,6 +505,7 @@
     <MESSAGE value="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する" />
     <MESSAGE value="Admin/pom.xmlにコードを追加する" />
     <MESSAGE value="Admin/resouces/application.propertiesを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/resouces/application.propertiesを編集する" />
+    <MESSAGE value="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する" />
   </component>
 </project>
