@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711695954021</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1711695954021</updated>
     </task>
     <task id="LOCAL-00020" summary="Library/src/main/java/com.ecommerce.library/modelにAdmin.javaを作成する">
       <option name="closed" value="true" />
@@ -487,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711852965883</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711853195170</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1711853195171</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
