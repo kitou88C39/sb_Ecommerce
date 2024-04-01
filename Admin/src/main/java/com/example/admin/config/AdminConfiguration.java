@@ -34,4 +34,11 @@ public class AdminConfiguration extends WebSecurityConfigurerAdapter {
     protected void configure(AuthenticationMagagerBuilder auth) throws Exception{
         auth.authenticationProvider(daoAuthenticationProvider());
     }
+
+    @Override
+    protected void configure(HttpSecurity htto) throws Exception{
+        http.authorizeRequests().authMatchers("/*").permitAll()
+                .and()
+                .antMatcher("/admin/*")
+    }
 }
