@@ -27,5 +27,11 @@ public class AdminConfiguration extends WebSecurityConfigurerAdapter {
         DaoAuthenticationProvider provider = new DaoAuthenticationProvider();
         provider.setUserDetailsService(userDetailsService());
         provider.setPasswordEncoder(passwordEncoder());
+        return provider;
+    }
+
+    @Override
+    protected void configure(AuthenticationMagagerBuilder auth) throws Exception{
+        auth.authenticationProvider(daoAuthenticationProvider());
     }
 }
