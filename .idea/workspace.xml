@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/configにAdminConfiguration.javaを作成する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711700346648</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1711700346648</updated>
     </task>
     <task id="LOCAL-00031" summary="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する">
       <option name="closed" value="true" />
@@ -487,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711955379939</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Admin/src/java/com.example.admin/configにAdminConfiguration.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711956273892</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1711956273892</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
