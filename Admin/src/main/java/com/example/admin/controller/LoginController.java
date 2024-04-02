@@ -1,5 +1,6 @@
 package com.example.admin.controller;
 
+import com.example.library.dto.AdminDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,6 +16,7 @@ public class LoginController {
 
     @GetMapping("/register")
     public String register(Model model){
+        model.addAllAttributes("adminDto", new AdminDto());
         return "register";
     }
 
