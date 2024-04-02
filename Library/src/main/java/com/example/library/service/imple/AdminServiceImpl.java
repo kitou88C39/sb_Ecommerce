@@ -6,12 +6,14 @@ import com.example.library.repository.AdminRepository;
 import com.example.library.repository.RoleRepository;
 import com.example.library.service.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
 
 @Service
 public class AdminServiceImpl implements AdminService {
+    private BCryptPasswordEncoder passwordEncoder;
 
     @Autowired
     private AdminRepository adminRepository;
