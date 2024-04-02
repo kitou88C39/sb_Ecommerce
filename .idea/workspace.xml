@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/forget-password.htmlを編集する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,22 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する">
-      <option name="closed" value="true" />
-      <created>1711779171363</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1711779171363</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Admin/pom.xmlにコードを追加する">
-      <option name="closed" value="true" />
-      <created>1711780590450</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1711780590450</updated>
     </task>
     <task id="LOCAL-00053" summary="Admin/resouces/application.propertiesを編集する">
       <option name="closed" value="true" />
@@ -489,7 +472,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712055802192</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712056601786</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1712056601786</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712057508973</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1712057508974</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -517,6 +516,7 @@
     <MESSAGE value="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにforget-password.html register.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templates/forget-password.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/forget-password.htmlを編集する" />
+    <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
   </component>
 </project>
