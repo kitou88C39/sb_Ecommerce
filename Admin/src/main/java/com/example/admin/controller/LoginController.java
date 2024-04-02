@@ -18,7 +18,7 @@ public class LoginController {
     }
 
     @GetMapping("/forgot-password")
-    public String forgotPassword(){
+    public String forgotPassword(Model model){
         return "forgot-password";
     }
 
