@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,14 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711764594848</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1711764594848</updated>
     </task>
     <task id="LOCAL-00047" summary="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する">
       <option name="closed" value="true" />
@@ -488,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712018752719</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
+      <option name="closed" value="true" />
+      <created>1712024596814</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1712024596814</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
