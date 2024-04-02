@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,14 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1711764888939</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1711764888939</updated>
     </task>
     <task id="LOCAL-00048" summary="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する">
       <option name="closed" value="true" />
@@ -486,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712024596814</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える">
+      <option name="closed" value="true" />
+      <created>1712025002699</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025002699</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -511,6 +513,7 @@
     <MESSAGE value="Admin/src/java/com.example.adminにcontrollerフォルダを作成し、LoginController.javaを作成する" />
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを作成する" />
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える" />
+    <MESSAGE value="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える" />
   </component>
 </project>
