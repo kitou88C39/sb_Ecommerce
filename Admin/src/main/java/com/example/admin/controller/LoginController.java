@@ -11,4 +11,9 @@ public class LoginController {
     public String loginForm(){
         return "login";
     }
+
+    @GetMapping("/register")
+    public String register(Model model){
+        return "register";
+    }
 }
