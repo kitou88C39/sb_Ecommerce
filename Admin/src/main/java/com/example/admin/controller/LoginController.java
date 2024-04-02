@@ -16,4 +16,10 @@ public class LoginController {
     public String register(Model model){
         return "register";
     }
+
+    @GetMapping("/forgot-password")
+    public String forgotPassword(){
+        return "forgot-password";
+    }
+
 }
