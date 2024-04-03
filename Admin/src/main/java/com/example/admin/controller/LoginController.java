@@ -1,7 +1,9 @@
 package com.example.admin.controller;
 
 import com.example.library.dto.AdminDto;
+import com.example.library.service.imple.AdminServiceImpl;
 import jakarta.validation.Valid;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.bind.BindResult;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -12,6 +14,9 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 @Controller
 public class LoginController {
+    @Autowired
+    private AdminServiceImpl adminService;
+}
 
     @GetMapping("/login")
     public String loginForm(){
@@ -39,6 +44,8 @@ public class LoginController {
                 model.addAttribute("adminDto", adminDto);
                 return "reqister";
             }
+            String username = adminDto.getUsername();
+
     } catch (Exception e) {
 
         }
