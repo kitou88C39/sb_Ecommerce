@@ -49,8 +49,9 @@ public class LoginController {
             if(admin != null){
                 redirectAttributes.addFlashAttribute("message","Your email has been registered!");
                 return "register";
-
             }
+            adminService.save(adminDto);
+            redirectAttributes.addFlashAttribute("message","Register successfully!");
     } catch (Exception e) {
 
         }
