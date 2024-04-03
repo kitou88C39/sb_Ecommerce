@@ -18,44 +18,46 @@ public class LoginController {
     private AdminServiceImpl adminService;
 }
 
-    @GetMapping("/login")
-    public String loginForm(){
-        return "login";
-    }
+@GetMapping("/login")
+public String loginForm(){
+    return "login";
+}
 
-    @GetMapping("/register")
-    public String register(Model model){
-        model.addAllAttributes("adminDto", new AdminDto());
-        return "register";
-    }
+@GetMapping("/register")
+public String register(Model model){
+    model.addAllAttributes("adminDto", new AdminDto());
+    return "register";
+}
 
-    @GetMapping("/forgot-password")
-    public String forgotPassword(Model model) {
-        return "forgot-password";
-    }
+@GetMapping("/forgot-password")
+public String forgotPassword(Model model) {
+    return "forgot-password";
+}
 
-    @PostMapping("/register-new")
-    public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
-                              BindingResult result,
-                              Model model,
-                              RedirectAttributes redirectAttributes){
-        try{
-            if(result.hasErrors()){
-                model.addAttribute("adminDto", adminDto);
-                return "reqister";
-            }
-            String username = adminDto.getUsername();
-            Admin admin = adminService.findByUsername(username);
-            if(admin != null){
-                model.addAttribute("adminDto", adminDto);
-                redirectAttributes.addFlashAttribute("message","Your email has been registered!");
-                return "register";
-            }
+@PostMapping("/register-new")
+public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
+                          BindingResult result,
+                          Model model,
+                          RedirectAttributes redirectAttributes){
+    try{
+        if(result.hasErrors()){
+            model.addAttribute("adminDto", adminDto);
+            return "reqister";
+        }
+        String username = adminDto.getUsername();
+        Admin admin = adminService.findByUsername(username);
+        if(admin != null){
+            model.addAttribute("adminDto", adminDto);
+            redirectAttributes.addFlashAttribute("message","Your email has been registered!");
+            return "register";
+        }
+        if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
             adminService.save(adminDto);
             odel.addAttribute("adminDto", adminDto);
-            redirectAttributes.addFlashAttribute("message","Register successfully!");
-        } catch (Exception e) {
-            redirectAttributes.addFlashAttribute("message","Can not register because error server!");
+            redirectAttributes.addFlashAttribute("message", "Register successfully!");
         }
-        return "reqister";
+    } catch (Exception e) {
+        redirectAttributes.addFlashAttribute("message","Can not register because error server!");
+    }
+    return "reqister";
 }
