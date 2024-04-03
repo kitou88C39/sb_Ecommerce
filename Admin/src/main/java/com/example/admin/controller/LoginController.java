@@ -45,7 +45,10 @@ public class LoginController {
                 return "reqister";
             }
             String username = adminDto.getUsername();
+            Admin admin = adminService.findByUsername(username);
+            if(admin != null){
 
+            }
     } catch (Exception e) {
 
         }
