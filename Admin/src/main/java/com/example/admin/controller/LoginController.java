@@ -33,7 +33,9 @@ public class LoginController {
     public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
                               BindingResult result,
                               Model model,
-                              RedirectAttributes redirectAttributes
-                              ){
-    }
+                              RedirectAttributes redirectAttributes){
+        if(result.hasErrors()){
+            model.addAttribute("adminDto", adminDto);
+            return "reqister";
+        }
 }
