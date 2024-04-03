@@ -47,6 +47,8 @@ public class LoginController {
             String username = adminDto.getUsername();
             Admin admin = adminService.findByUsername(username);
             if(admin != null){
+                redirectAttributes.addFlashAttribute("message","Your email has been registered!");
+                return "register";
 
             }
     } catch (Exception e) {
