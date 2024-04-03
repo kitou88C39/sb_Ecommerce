@@ -52,11 +52,10 @@ public class LoginController {
                 return "register";
             }
             adminService.save(adminDto);
+            odel.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Register successfully!");
-            return "register";
-
         } catch (Exception e) {
-
+            redirectAttributes.addFlashAttribute("message","Can not register because error server!");
         }
         return "reqister";
 }
