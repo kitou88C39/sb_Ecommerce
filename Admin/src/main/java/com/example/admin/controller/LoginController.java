@@ -53,9 +53,14 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
             adminService.save(adminDto);
-            odel.addAttribute("adminDto", adminDto);
+            model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message", "Register successfully!");
+        }else {
+            model.addAttribute("adminDto", adminDto);
+            redirectAttributes.addFlashAttribute("message","Password is not same!");
         }
+
+
     } catch (Exception e) {
         redirectAttributes.addFlashAttribute("message","Can not register because error server!");
     }
