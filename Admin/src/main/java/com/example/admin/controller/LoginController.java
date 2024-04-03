@@ -34,8 +34,13 @@ public class LoginController {
                               BindingResult result,
                               Model model,
                               RedirectAttributes redirectAttributes){
-        if(result.hasErrors()){
-            model.addAttribute("adminDto", adminDto);
-            return "reqister";
+        try{
+            if(result.hasErrors()){
+                model.addAttribute("adminDto", adminDto);
+                return "reqister";
+            }
+    } catch (Exception e) {
+
         }
+        return "reqister";
 }
