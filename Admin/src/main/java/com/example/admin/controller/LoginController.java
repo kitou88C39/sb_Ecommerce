@@ -54,6 +54,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Your email has been registered!");
             System.out.println("admin not null");
+            session.setAttribute("msessage","Your email has been registered!");
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
