@@ -39,7 +39,9 @@ public String forgotPassword(Model model) {
 public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
                           BindingResult result,
                           Model model,
-                          RedirectAttributes redirectAttributes){
+                          RedirectAttributes redirectAttributes,
+                          HttpSession session){
+
     try{
         if(result.hasErrors()){
             model.addAttribute("adminDto", adminDto);
@@ -63,7 +65,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Password is not same!");
             System.out.println("password not same");
-            return "register";
+            return "redirect:/register";
         }
 
 
