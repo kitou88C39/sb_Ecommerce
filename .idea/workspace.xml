@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
@@ -105,7 +106,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-
     <task id="LOCAL-00089" summary="Admin/src/java/com.example.adminにcontrollerフォルダを作成し、LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1711974860911</created>
@@ -175,6 +175,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712025002699</updated>
     </task>
+
     <task id="LOCAL-00097" summary="Admin/src/main/resources/templatesにforget-password.html register.htmlを加える">
       <option name="closed" value="true" />
       <created>1712025985767</created>
@@ -563,6 +564,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712197413121</updated>
     </task>
+
+    <task id="LOCAL-00145" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712197708645</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197708645</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
+
     <option name="localTasksCounter" value="145" />
 
     <option name="localTasksCounter" value="144" />
