@@ -61,6 +61,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         }else {
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Password is not same!");
+            System.out.println("password not same");
             return "register";
         }
 
