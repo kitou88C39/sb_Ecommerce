@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
+    </list>
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
@@ -153,6 +157,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712018752719</updated>
     </task>
+
     <task id="LOCAL-00095" summary="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
       <option name="closed" value="true" />
       <created>1712024596814</created>
@@ -540,6 +545,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712196955899</updated>
     </task>
+
+    <task id="LOCAL-00143" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712197126511</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197126511</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
+
     <option name="localTasksCounter" value="143" />
 
     <option name="localTasksCounter" value="142" />
