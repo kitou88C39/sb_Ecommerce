@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Admin/src/java/com.example.adminにcontrollerフォルダを作成し、LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711974860911</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1711974860911</updated>
     </task>
     <task id="LOCAL-00090" summary="Admin/src/main/resources/templatesにlogin.htmlを作成する">
       <option name="closed" value="true" />
@@ -480,15 +489,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712193723039</updated>
     </task>
-    <task id="LOCAL-00138" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1712194600182</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1712194600183</updated>
-    </task>
-    <option name="localTasksCounter" value="139" />
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
