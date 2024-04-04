@@ -39,10 +39,10 @@ public String forgotPassword(Model model) {
 public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
                           BindingResult result,
                           Model model,
-                          RedirectAttributes redirectAttributes,
                           HttpSession session){
 
     try{
+        session.removeAttribute("message");
         if(result.hasErrors()){
             model.addAttribute("adminDto", adminDto);
             result.toString();
