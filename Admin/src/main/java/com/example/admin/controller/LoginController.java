@@ -54,12 +54,13 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Your email has been registered!");
             System.out.println("admin not null");
-            session.setAttribute("msessage","Your email has been registered!");
+            session.setAttribute("message","Your email has been registered!");
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
             adminService.save(adminDto);
             System.out.println("success");
+            session.setAttribute("message","Register successfully!");
             model.addAttribute("adminDto", adminDto);
         }else{
             model.addAttribute("adminDto", adminDto);
@@ -67,9 +68,8 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             System.out.println("password not same");
             return "register";
         }
-
     } catch (Exception e) {
-        session.setAttribute("message","Server is error please try again later");
+        session.setAttribute("message","Server is error, please try again later!");
     }
     return "reqister";
 }
