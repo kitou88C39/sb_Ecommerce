@@ -64,10 +64,10 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         }else {
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Password is not same!");
+            session.setAttribute("message","Password is not same!");
             System.out.println("password not same");
-            return "redirect:/register";
+            return "register";
         }
-
 
     } catch (Exception e) {
         redirectAttributes.addFlashAttribute("message","Can not register because error server!");
