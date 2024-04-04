@@ -42,6 +42,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
     try{
         if(result.hasErrors()){
             model.addAttribute("adminDto", adminDto);
+            result.toString();
             return "reqister";
         }
         String username = adminDto.getUsername();
@@ -49,10 +50,12 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         if(admin != null){
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message","Your email has been registered!");
+            System.out.println("admin not null");
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
             adminService.save(adminDto);
+            System.out.println("success");
             model.addAttribute("adminDto", adminDto);
             redirectAttributes.addFlashAttribute("message", "Register successfully!");
         }else {
