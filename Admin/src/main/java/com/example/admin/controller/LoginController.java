@@ -61,8 +61,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             adminService.save(adminDto);
             System.out.println("success");
             model.addAttribute("adminDto", adminDto);
-            redirectAttributes.addFlashAttribute("message", "Register successfully!");
-        }else {
+        }else{
             model.addAttribute("adminDto", adminDto);
             session.setAttribute("message","Password is not same!");
             System.out.println("password not same");
@@ -70,7 +69,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         }
 
     } catch (Exception e) {
-        redirectAttributes.addFlashAttribute("message","Can not register because error server!");
+        session.setAttribute("message","Server is error please try again later");
     }
     return "reqister";
 }
