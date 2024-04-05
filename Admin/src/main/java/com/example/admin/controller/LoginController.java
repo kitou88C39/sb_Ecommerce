@@ -55,7 +55,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         if(admin != null){
             model.addAttribute("adminDto", adminDto);
             System.out.println("admin not null");
-            model.addAttribute("emailError","Your email has been registered!")
+            model.addAttribute("emailError","Your email has been registered!");
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
@@ -72,6 +72,8 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         }
     } catch (Exception e) {
         e.printStackTrace();
+        model.addAttribute("errors", "The server has been wrong!");
+
     }
     return "reqister";
 }
