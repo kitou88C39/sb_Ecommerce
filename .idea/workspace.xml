@@ -4,6 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
+    </list>
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
@@ -241,6 +247,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712057747428</updated>
     </task>
+
     <task id="LOCAL-00103" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712057838247</created>
@@ -635,6 +642,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712276861855</updated>
     </task>
+
+    <task id="LOCAL-00151" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712277204132</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1712277204132</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
+
     <option name="localTasksCounter" value="151" />
 
     <option name="localTasksCounter" value="150" />

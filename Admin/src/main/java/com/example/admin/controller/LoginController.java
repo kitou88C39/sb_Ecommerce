@@ -29,7 +29,7 @@ public String loginForm(){
 }
 
 @GetMapping("/register")
-public String register(Model model){
+public String register(Model model) {
     model.addAllAttributes("adminDto", new AdminDto());
     return "register";
 }
@@ -62,6 +62,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
+            adminDto.setPassword(passwordEncoder.encode(adminDto.getPassword()));
             adminService.save(adminDto);
             System.out.println("success");
             session.setAttribute("message","Register successfully!");
