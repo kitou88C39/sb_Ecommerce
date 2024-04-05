@@ -4,9 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する">
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
     </list>
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する" />
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する">
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +115,104 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
+
+    <task id="LOCAL-00089" summary="Admin/src/java/com.example.adminにcontrollerフォルダを作成し、LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1711974860911</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1711974860911</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Admin/src/main/resources/templatesにlogin.htmlを作成する">
+      <option name="closed" value="true" />
+      <created>1711975204987</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1711975204987</updated>
+    </task>
+
+    <task id="LOCAL-00091" summary="Admin/src/main/resources/templatesにlogin.htmlを作成する">
+      <option name="closed" value="true" />
+      <created>1711975899908</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1711975899908</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Admin/src/main/resources/templatesにlogin.htmlを作成する">
+      <option name="closed" value="true" />
+      <created>1711976187091</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1711976187091</updated>
+    </task>
+
+    <task id="LOCAL-00093" summary="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
+      <option name="closed" value="true" />
+      <created>1712018664132</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1712018664133</updated>
+    </task>
+
+    <task id="LOCAL-00094" summary="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
+      <option name="closed" value="true" />
+      <created>1712018752719</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1712018752719</updated>
+    </task>
+
+    <task id="LOCAL-00095" summary="Admin/src/main/resources/templatesにlogin.htmlを作成し、BoostrapのCSSとFormsのコードを加える">
+      <option name="closed" value="true" />
+      <created>1712024596814</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1712024596814</updated>
+    </task>
+
+    <task id="LOCAL-00096" summary="Admin/src/main/resources/staticに①のcss dist img js less pages scss &#10;vendorを加える">
+      <option name="closed" value="true" />
+      <created>1712025002699</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025002699</updated>
+    </task>
+
+    <task id="LOCAL-00097" summary="Admin/src/main/resources/templatesにforget-password.html register.htmlを加える">
+      <option name="closed" value="true" />
+      <created>1712025985767</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712025985767</updated>
+    </task>
+
+    <task id="LOCAL-00098" summary="Admin/src/main/resources/templates/forget-password.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712054838733</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1712054838734</updated>
+    </task>
+
+    <task id="LOCAL-00099" summary="Admin/src/main/resources/templates/forget-password.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712055802192</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1712055802192</updated>
+    </task>
+
     <task id="LOCAL-00100" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712056601786</created>
@@ -400,6 +517,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712193723039</updated>
     </task>
+
     <task id="LOCAL-00138" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712194600182</created>
@@ -416,6 +534,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712195648923</updated>
     </task>
+
     <task id="LOCAL-00140" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712196059657</created>
@@ -432,6 +551,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712196269484</updated>
     </task>
+
     <task id="LOCAL-00142" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712196955899</created>
@@ -440,6 +560,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712196955899</updated>
     </task>
+
     <task id="LOCAL-00143" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712197126511</created>
@@ -456,6 +577,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712197413121</updated>
     </task>
+
     <task id="LOCAL-00145" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
       <option name="closed" value="true" />
       <created>1712197708645</created>
@@ -464,6 +586,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712197708645</updated>
     </task>
+
     <task id="LOCAL-00146" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712267915856</created>
@@ -472,6 +595,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712267915857</updated>
     </task>
+
     <task id="LOCAL-00147" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712268334665</created>
@@ -480,6 +604,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712268334665</updated>
     </task>
+
     <task id="LOCAL-00148" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712268613960</created>
@@ -489,6 +614,25 @@
       <updated>1712268613960</updated>
     </task>
     <option name="localTasksCounter" value="149" />
+
+    <option name="localTasksCounter" value="148" />
+
+    <option name="localTasksCounter" value="147" />
+
+    <option name="localTasksCounter" value="146" />
+
+    <option name="localTasksCounter" value="145" />
+
+    <option name="localTasksCounter" value="144" />
+
+    <option name="localTasksCounter" value="143" />
+
+    <option name="localTasksCounter" value="142" />
+
+    <option name="localTasksCounter" value="140" />
+
+    <option name="localTasksCounter" value="138" />
+
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
