@@ -69,6 +69,7 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             return "register";
         }
     } catch (Exception e) {
+        e.printStackTrace();
         session.setAttribute("message","Server is error, please try again later!");
     }
     return "reqister";
