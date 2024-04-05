@@ -42,11 +42,9 @@ public String forgotPassword(Model model) {
 @PostMapping("/register-new")
 public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
                           BindingResult result,
-                          Model model,
-                          HttpSession session){
+                          Model model){
 
     try{
-        session.removeAttribute("message");
         if(result.hasErrors()){
             model.addAttribute("adminDto", adminDto);
             result.toString();
@@ -56,26 +54,21 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
         Admin admin = adminService.findByUsername(username);
         if(admin != null){
             model.addAttribute("adminDto", adminDto);
-            redirectAttributes.addFlashAttribute("message","Your email has been registered!");
             System.out.println("admin not null");
-            session.setAttribute("message","Your email has been registered!");
             return "register";
         }
         if(adminDto = getPassword().equals(adminDto.getRepeatPassword())) {
             adminDto.setPassword(passwordEncoder.encode(adminDto.getPassword()));
             adminService.save(adminDto);
             System.out.println("success");
-            session.setAttribute("message","Register successfully!");
             model.addAttribute("adminDto", adminDto);
         }else{
             model.addAttribute("adminDto", adminDto);
-            session.setAttribute("message","Password is not same!");
             System.out.println("password not same");
             return "register";
         }
     } catch (Exception e) {
         e.printStackTrace();
-        session.setAttribute("message","Server is error, please try again later!");
     }
     return "reqister";
 }
