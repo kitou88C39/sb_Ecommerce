@@ -62,9 +62,11 @@ public String addNewAdmin(@Valid @ModelAttribute("adminDto")AdminDto adminDto,
             adminDto.setPassword(passwordEncoder.encode(adminDto.getPassword()));
             adminService.save(adminDto);
             System.out.println("success");
+            model.addAttribute("success", "Register successfully!");
             model.addAttribute("adminDto", adminDto);
         }else{
             model.addAttribute("adminDto", adminDto);
+            model.addAttribute("passwordError", "your password maybe wrong! Check again!");
             System.out.println("password not same");
             return "register";
         }
