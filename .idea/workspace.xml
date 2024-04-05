@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する">
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
     </list>
@@ -613,6 +615,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712268613960</updated>
     </task>
+
+    <task id="LOCAL-00149" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712276122882</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1712276122882</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
+    
     <option name="localTasksCounter" value="149" />
 
     <option name="localTasksCounter" value="148" />
@@ -659,8 +672,8 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/service/impl/AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
-    <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/register.htmlを編集する" />
+    <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
   </component>
 </project>
