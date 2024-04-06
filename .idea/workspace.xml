@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -53,7 +54,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
     </list>
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,6 +425,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712107347175</updated>
     </task>
+
     <task id="LOCAL-00120" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを編集する">
       <option name="closed" value="true" />
       <created>1712110465666</created>
@@ -831,6 +832,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712377932322</updated>
     </task>
+
+    <task id="LOCAL-00168" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712378439535</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1712378439535</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
+
     <option name="localTasksCounter" value="168" />
 
     <option name="localTasksCounter" value="167" />
