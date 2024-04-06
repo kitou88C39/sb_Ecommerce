@@ -22,14 +22,18 @@ public class LoginController {
 
     @Autowired
     private BCryptPasswordEncoder passwordEncoder;
-
-@GetMapping("/login")
-public String loginForm(){
+    @GetMapping("/login")
+    public String loginForm(){
     return "login";
 }
 
-@GetMapping("/register")
-public String register(Model model) {
+    @RequestMapping("/index")
+    public String home(){
+        return "index";
+    }
+
+    @GetMapping("/register")
+    public String register(Model model) {
     model.addAllAttributes("adminDto", new AdminDto());
     return "register";
 }
