@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/config/AdminConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" afterDir="false" />
     </list>
 
@@ -151,6 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
+
 
     <task id="LOCAL-00089" summary="Admin/src/java/com.example.adminにcontrollerフォルダを作成し、LoginController.javaを作成する">
       <option name="closed" value="true" />
@@ -377,6 +376,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712104052947</updated>
     </task>
+
     <task id="LOCAL-00115" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを編集する">
       <option name="closed" value="true" />
       <created>1712104650246</created>
@@ -780,6 +780,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712367055734</updated>
     </task>
+
+    <task id="LOCAL-00163" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712368027943</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1712368027943</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
+
     <option name="localTasksCounter" value="163" />
 
     <option name="localTasksCounter" value="161" />
