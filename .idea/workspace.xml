@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
       <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/fragments.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/fragments.html" afterDir="false" />
 
@@ -72,6 +74,7 @@
       <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
 
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -539,6 +542,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712189800491</updated>
     </task>
+
     <task id="LOCAL-00131" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712190299534</created>
@@ -945,6 +949,25 @@
       <option name="project" value="LOCAL" />
       <updated>1712464590506</updated>
     </task>
+
+    <task id="LOCAL-00178" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712464888958</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464888958</updated>
+    </task>
+    <task id="LOCAL-00179" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712465155524</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1712465155524</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
+
     <option name="localTasksCounter" value="178" />
 
     <option name="localTasksCounter" value="177" />

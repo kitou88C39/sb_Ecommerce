@@ -24,12 +24,13 @@ public class LoginController {
     private BCryptPasswordEncoder passwordEncoder;
     @GetMapping("/login")
     public String loginForm(Model model){
-        model.addAttribute("title");
+        model.addAttribute("title", "Login");
         return "login";
     }
 
     @RequestMapping("/index")
-    public String home(){
+    public String home(Model model){
+        model.addAttribute("title", "Home Pages");
         return "index";
     }
 
