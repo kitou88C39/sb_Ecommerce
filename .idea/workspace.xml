@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/fragments.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/fragments.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,14 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Admin/src/main/resources/templates/login.htmlを編集する">
-      <option name="closed" value="true" />
-      <created>1712113217779</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1712113217779</updated>
     </task>
     <task id="LOCAL-00128" summary="Admin/src/main/resources/templates/login.htmlを編集する">
       <option name="closed" value="true" />
@@ -500,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712458031107</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712464287916</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464287916</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Library/src/main/java/com.ecommerce.library/repositoryにAdminRepository.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/dtoにAdminDto.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにAdminService.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplファイルAdminServiceImpl.javaを作成する" />
@@ -540,6 +542,7 @@
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
+    <MESSAGE value="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
   </component>
 </project>
