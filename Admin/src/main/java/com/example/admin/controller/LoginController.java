@@ -23,9 +23,10 @@ public class LoginController {
     @Autowired
     private BCryptPasswordEncoder passwordEncoder;
     @GetMapping("/login")
-    public String loginForm(){
-    return "login";
-}
+    public String loginForm(Model model){
+        model.addAttribute("title");
+        return "login";
+    }
 
     @RequestMapping("/index")
     public String home(){
