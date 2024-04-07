@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/login.htmlを編集する">
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える">
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにlogin.htmlを加える">
@@ -488,6 +490,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712112282154</updated>
     </task>
+
     <task id="LOCAL-00126" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712112984311</created>
@@ -890,6 +893,25 @@
       <option name="project" value="LOCAL" />
       <updated>1712455596283</updated>
     </task>
+
+    <task id="LOCAL-00173" summary="Admin/src/main/resources/templates/login.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712457427221</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1712457427222</updated>
+    </task>
+    <task id="LOCAL-00174" summary="Admin/src/main/resources/templates/login.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712457680256</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1712457680256</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
+
     <option name="localTasksCounter" value="173" />
 
     <option name="localTasksCounter" value="172" />
@@ -980,13 +1002,13 @@
     <MESSAGE value="Admin/src/main/resources/templates/forget-password.htmlを編集する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/service/impl/AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを編集する" />
-    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
     <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
+    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/login.htmlを編集する" />
   </component>
 </project>
