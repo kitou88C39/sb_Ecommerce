@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/login.htmlを編集する">
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える">
@@ -499,6 +501,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712112984311</updated>
     </task>
+
     <task id="LOCAL-00127" summary="Admin/src/main/resources/templates/login.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712113217779</created>
@@ -910,6 +913,16 @@
       <option name="project" value="LOCAL" />
       <updated>1712457680256</updated>
     </task>
+
+    <task id="LOCAL-00175" summary="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える">
+      <option name="closed" value="true" />
+      <created>1712458031107</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1712458031107</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <option name="localTasksCounter" value="175" />
 
     <option name="localTasksCounter" value="173" />
@@ -1007,8 +1020,8 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを加える" />
-    <MESSAGE value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/login.htmlを編集する" />
+    <MESSAGE value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
   </component>
 </project>
