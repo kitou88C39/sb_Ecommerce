@@ -110,30 +110,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-    <task id="LOCAL-00158" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
-      <option name="closed" value="true" />
-      <created>1712364794037</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1712364794037</updated>
-    </task>
-    <task id="LOCAL-00159" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
-      <option name="closed" value="true" />
-      <created>1712365657434</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1712365657434</updated>
-    </task>
-    <task id="LOCAL-00160" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
-      <option name="closed" value="true" />
-      <created>1712365869999</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1712365869999</updated>
-    </task>
     <task id="LOCAL-00161" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
       <option name="closed" value="true" />
       <created>1712366607863</created>
@@ -502,7 +478,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712575719028</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712576746250</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1712576746250</updated>
+    </task>
+    <task id="LOCAL-00208" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712576952474</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1712576952474</updated>
+    </task>
+    <task id="LOCAL-00209" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712576969168</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1712576969168</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
