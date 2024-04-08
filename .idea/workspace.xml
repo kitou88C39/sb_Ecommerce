@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/index.htmlを編集する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/index.htmlを編集する">
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,22 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00146" summary="Admin/src/main/resources/templates/register.htmlを編集する">
-      <option name="closed" value="true" />
-      <created>1712267915856</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1712267915857</updated>
-    </task>
-    <task id="LOCAL-00147" summary="Admin/src/main/resources/templates/register.htmlを編集する">
-      <option name="closed" value="true" />
-      <created>1712268334665</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1712268334665</updated>
     </task>
     <task id="LOCAL-00148" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
@@ -500,7 +486,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712539490720</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="Admin/src/main/resources/templates/index.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712540149121</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1712540149121</updated>
+    </task>
+    <task id="LOCAL-00196" summary="Admin/src/main/resources/templates/index.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712540321642</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1712540321642</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
