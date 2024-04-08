@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する">
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/index.htmlを編集する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,22 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1712197413121</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1712197413121</updated>
-    </task>
-    <task id="LOCAL-00145" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
-      <option name="closed" value="true" />
-      <created>1712197708645</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1712197708645</updated>
     </task>
     <task id="LOCAL-00146" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
@@ -502,7 +484,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712539146681</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="Admin/src/main/resources/templates/index.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712539486272</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539486272</updated>
+    </task>
+    <task id="LOCAL-00194" summary="Admin/src/main/resources/templates/index.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712539490720</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539490720</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Admin/src/java/com.example.admin/AdimnApplicationをLibraryを受け取るように修正する" />
     <MESSAGE value="Admin/pom.xmlにコードを追加する" />
     <MESSAGE value="Admin/resouces/application.propertiesを編集する" />
     <MESSAGE value="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する" />
@@ -542,6 +539,7 @@
     <MESSAGE value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/register.htmlを編集する" />
+    <MESSAGE value="Admin/src/main/resources/templates/index.htmlを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/index.htmlを編集する" />
   </component>
 </project>
