@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/register.html" afterDir="false" />
     </list>
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/index.htmlを編集する" />
+
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/index.htmlを編集する">
+      <change beforePath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +120,57 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
+
+    <task id="LOCAL-00148" summary="Admin/src/main/resources/templates/register.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712268613960</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1712268613960</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712276122882</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1712276122882</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712276861855</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1712276861855</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712277204132</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1712277204132</updated>
+    </task>
+
+    <task id="LOCAL-00152" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712277980890</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1712277980890</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
+      <option name="closed" value="true" />
+      <created>1712281275284</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1712281275284</updated>
+    </task>
+
     <task id="LOCAL-00154" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
       <option name="closed" value="true" />
       <created>1712281510229</created>
@@ -456,6 +515,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712540321642</updated>
     </task>
+
     <task id="LOCAL-00197" summary="Admin/src/main/resources/templates/index.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712540528540</created>
@@ -488,6 +548,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712541015637</updated>
     </task>
+
     <task id="LOCAL-00201" summary="Admin/src/main/resources/templates/index.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712541151028</created>
@@ -505,6 +566,10 @@
       <updated>1712541331826</updated>
     </task>
     <option name="localTasksCounter" value="203" />
+    <option name="localTasksCounter" value="201" />
+
+    <option name="localTasksCounter" value="197" />
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,8 +605,13 @@
     <MESSAGE value="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにHTML5ファイルlogin.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
-    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
+    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
+
+    <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
+
+    <MESSAGE value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
+
     <MESSAGE value="Admin/src/main/resources/templates/index.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
     <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/register.htmlを編集する" />
