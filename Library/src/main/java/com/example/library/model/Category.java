@@ -12,6 +12,10 @@ import  javax.persistence.Tavle;
 @NoArgsConstructor
 @Entity
 @Table(name = categories)
+
+@Data
+@AllArgsConstructor
+
 public class Category {
     private Long id;
     private String name;
