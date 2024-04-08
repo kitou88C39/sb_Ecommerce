@@ -5,12 +5,19 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import  javax.persistence.*;
 
+import  javax.persistence.Entity;
+import  javax.persistence.JoinTable;
+import  javax.persistence.Tavle;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
 @Table(name = categories, uniqueConstraints = @UniqueConstraint(columnNames="name"))
+@Table(name = categories)
+
+@Data
+@AllArgsConstructor
 public class Category {
     private Long id;
     private String name;
