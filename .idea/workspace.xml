@@ -531,7 +531,6 @@
     <MESSAGE value="Admin/src/main/resources/templates/forget-password.htmlを編集する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/service/impl/AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを編集する" />
-    <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
     <MESSAGE value="Admin/src/java/com.example.admin/controller/LoginController.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.htmlを加える" />
@@ -542,6 +541,7 @@
     <MESSAGE value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/login.htmlを編集する" />
+    <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/register.htmlを編集する" />
   </component>
 </project>
