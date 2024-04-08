@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/login.htmlを編集する" />
+
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/fragments.htmlを編集する" />
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/fragments.htmlを編集する">
@@ -1086,6 +1088,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712537854180</updated>
     </task>
+
+    <task id="LOCAL-00190" summary="Admin/src/main/resources/templates/login.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712538069343</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1712538069343</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
+
     <option name="localTasksCounter" value="190" />
 
     <option name="localTasksCounter" value="189" />
@@ -1206,12 +1219,12 @@
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.htmlを加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにlogin.htmlを加える" />
-    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える" />
     <MESSAGE value="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templatesにHTML5ファイルlogin.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/fragments.htmlを編集する" />
+    <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/login.htmlを編集する" />
   </component>
 </project>
