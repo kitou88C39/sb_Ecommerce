@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/forgot-password.htmlを編集する">
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" afterDir="false" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" afterDir="false" />
     </list>
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templates/register.htmlを編集する" />
@@ -125,7 +125,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-
     <task id="LOCAL-00148" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712268613960</created>
@@ -597,6 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712575194908</updated>
     </task>
+    <task id="LOCAL-00206" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712575719028</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1712575719028</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <option name="localTasksCounter" value="206" />
     <option name="localTasksCounter" value="205" />
 
@@ -619,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Admin/pom.xmlにコードを追加する" />
     <MESSAGE value="Admin/resouces/application.propertiesを編集する" />
     <MESSAGE value="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する" />
     <MESSAGE value="Admin/src/java/com.example.admin/configにAdminServiceConfig.javaを作成する" />
@@ -651,6 +658,7 @@
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
+    <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する" />
   </component>
 </project>
