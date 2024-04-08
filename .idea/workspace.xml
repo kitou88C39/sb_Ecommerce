@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
 
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
-      <change beforePath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/main/java/com/example/admin/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する" />
 
@@ -563,6 +563,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712190594227</updated>
     </task>
+
     <task id="LOCAL-00133" summary="Admin/src/main/resources/templates/register.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712191179957</created>
@@ -979,6 +980,17 @@
       <option name="project" value="LOCAL" />
       <updated>1712465297467</updated>
     </task>
+
+    <task id="LOCAL-00181" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712465579828</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1712465579828</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
+
     <option name="localTasksCounter" value="181" />
 
     <option name="localTasksCounter" value="180" />
