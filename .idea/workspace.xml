@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,22 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00168" summary="Library/src/main/java/com.ecommerce.library/serviceにimplフォルダを作成し、AdiminServiceImpl.javaを編集する">
-      <option name="closed" value="true" />
-      <created>1712378439535</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1712378439535</updated>
-    </task>
-    <task id="LOCAL-00169" summary="Admin/src/main/resources/templatesにindx.htmlを加える">
-      <option name="closed" value="true" />
-      <created>1712379047980</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1712379047980</updated>
     </task>
     <task id="LOCAL-00170" summary="Admin/src/main/resources/templatesにindx.htmlを加える">
       <option name="closed" value="true" />
@@ -502,7 +486,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712628930099</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712629196401</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1712629196401</updated>
+    </task>
+    <task id="LOCAL-00218" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712629366186</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1712629366186</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Admin/resouces/application.propertiesを編集する" />
     <MESSAGE value="Admin/src/java/com.example.adminにconfigフォルダを作成し、AdminDetails.javaを作成する" />
     <MESSAGE value="Admin/src/java/com.example.admin/configにAdminServiceConfig.javaを作成する" />
     <MESSAGE value="Admin/src/java/com.example.admin/configにAdminConfiguration.javaを作成する" />
@@ -541,6 +540,7 @@
     <MESSAGE value="Admin/src/main/resources/templates/register.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/login.htmlを編集する" />
     <MESSAGE value="Admin/src/main/resources/templates/forgot-password.htmlを編集する" />
+    <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する" />
     <MESSAGE value="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する" />
     <option name="LAST_COMMIT_MESSAGE" value="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する" />
   </component>
