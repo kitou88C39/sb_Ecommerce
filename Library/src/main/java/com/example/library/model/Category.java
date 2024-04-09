@@ -12,6 +12,9 @@ import  javax.persistence.*;
 @Entity
 @Table(name = categories, uniqueConstraints = @UniqueConstraint(columnNames="name"))
 public class Category {
+    @Id
+    @GeneratedValue(strategy = GenerationType.INDENITY)
+    @Column(name = "category_id")
     private Long id;
     private String name;
     private boolean is_deleted;
