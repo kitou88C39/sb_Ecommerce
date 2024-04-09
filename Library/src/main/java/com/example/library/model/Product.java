@@ -19,6 +19,8 @@ public class Product {
     @Lob
     @Column(columnDefinition = "MEDIUMBLOB")
     private String image;
+    @ManyToOne(fetch = FetchType.EAGER, cascade = CasecadeType.ALL)
+    @JoinColumn(name = "category_id", referncedColumnName = "category_id")
     private Category category;
     private boolean is_deleted;
     private boolean is_activated;
