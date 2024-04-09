@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する">
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/ProductRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00179" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
-      <option name="closed" value="true" />
-      <created>1712465155524</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1712465155524</updated>
     </task>
     <task id="LOCAL-00180" summary="Admin/src/main/resources/templatesにHTML5ファイルfragments.htmlを編集する">
       <option name="closed" value="true" />
@@ -503,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712647323857</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712647510849</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1712647510850</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
