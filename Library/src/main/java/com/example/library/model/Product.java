@@ -1,7 +1,11 @@
 package com.example.library.model;
 
-import jdk.jfr.Category;
-
+import javax.persistence.*
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Table(name = "products", uniqueConstraints = @UniqueConstraint(columnNames= {"name","image"}))
 public class Product {
     private Long id;
     private String name;
