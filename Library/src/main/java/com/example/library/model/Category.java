@@ -27,5 +27,7 @@ public class Category {
     private boolean is_deleted;
     private boolean is_activated;
 
-    public Category(String name){}
+    public Category(String name){
+
+    }
 }
