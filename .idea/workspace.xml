@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" afterDir="false" />
     </list>
@@ -683,6 +684,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712628227315</updated>
     </task>
+    <task id="LOCAL-00216" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712628930099</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1712628930099</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <option name="localTasksCounter" value="216" />
     <option name="localTasksCounter" value="215" />
     <option name="localTasksCounter" value="214" />
