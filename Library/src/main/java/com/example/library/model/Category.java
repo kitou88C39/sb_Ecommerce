@@ -19,4 +19,6 @@ public class Category {
     private String name;
     private boolean is_deleted;
     private boolean is_activated;
+
+    public Category(String name){}
 }
