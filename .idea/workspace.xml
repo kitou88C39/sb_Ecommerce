@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する" />
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/model/Product.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,14 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
-    </task>
-    <task id="LOCAL-00171" summary="Admin/src/main/resources/templatesにlogin.htmlを加える">
-      <option name="closed" value="true" />
-      <created>1712453535079</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1712453535079</updated>
     </task>
     <task id="LOCAL-00172" summary="Admin/src/main/resources/templatesにindx.html, 404.html, buttons.html, cards.html, charts.html, forget-password.html table.html, utilities-animation.html, utilities-animation.html, utilities-border.html,&#10;utilities-color.html, utilities-other.html を加える">
       <option name="closed" value="true" />
@@ -500,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712630153412</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="Library/src/main/java/com.ecommerce.library/modelにCategory.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712630385644</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1712630385644</updated>
+    </task>
+    <option name="localTasksCounter" value="221" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
