@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する" />
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する">
+      <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/ProductRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/repository/ProductRepository.java" afterDir="false" />
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する" />
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する">
@@ -807,6 +808,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712647510850</updated>
     </task>
+    <task id="LOCAL-00229" summary="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する">
+      <option name="closed" value="true" />
+      <created>1712663035642</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1712663035643</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <option name="localTasksCounter" value="229" />
     <option name="localTasksCounter" value="228" />
     <option name="localTasksCounter" value="226" />
