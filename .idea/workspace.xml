@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する" />
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
       <change beforePath="$PROJECT_DIR$/Library/src/main/java/com/example/library/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library/src/main/java/com/example/library/service/CategoryService.java" afterDir="false" />
     <list default="true" id="d2e5ca79-ca53-48b6-93c5-dcab0d6535eb" name="Changes" comment="Library/src/main/java/com.ecommerce.library/modelにProduct.javaを作成する" />
@@ -67,6 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -855,6 +857,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712967994202</updated>
     </task>
+    <task id="LOCAL-00234" summary="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
+      <option name="closed" value="true" />
+      <created>1712972254319</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1712972254319</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <option name="localTasksCounter" value="234" />
     <task id="LOCAL-00234" summary="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
       <option name="closed" value="true" />
