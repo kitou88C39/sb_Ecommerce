@@ -5,5 +5,6 @@ import org.springfreamwork.data.jpa.Repository.JpaRepository;
 import org.springfreamwork.stereotype.Repository;
 
 @Repository
+
 public interface CategoryRepository extends JpaRepository<Category, Long>{
 }
