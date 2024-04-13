@@ -1,8 +1,11 @@
 package com.example.library.service;
 
+import com.example.library.Category;
 import java.util.List;
-import com.example.library.model.Category;
 
 public interface CategoryService {
-    List<Category>findAll();
+    List<Category> findAll();
+    Category save(Category category);
+    Category getById(Long id);
+    Category update(Category category);
 }
