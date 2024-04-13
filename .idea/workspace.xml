@@ -113,6 +113,22 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
+    <task id="LOCAL-00185" summary="Admin/src/main/resources/templatesにHTML5ファイルlogin.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712535493734</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1712535493734</updated>
+    </task>
+    <task id="LOCAL-00186" summary="Admin/src/main/resources/templates/forgot-password.htmlを編集する">
+      <option name="closed" value="true" />
+      <created>1712535798585</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1712535798585</updated>
+    </task>
     <task id="LOCAL-00187" summary="Admin/src/main/resources/templates/fragments.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712536050569</created>
@@ -489,23 +505,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712967994202</updated>
     </task>
-    <task id="LOCAL-00234" summary="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
-      <option name="closed" value="true" />
-      <created>1712969838512</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1712969838512</updated>
-    </task>
-    <task id="LOCAL-00235" summary="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
-      <option name="closed" value="true" />
-      <created>1712970755316</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1712970755316</updated>
-    </task>
-    <option name="localTasksCounter" value="236" />
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
