@@ -112,14 +112,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711610259648</updated>
     </task>
-    <task id="LOCAL-00186" summary="Admin/src/main/resources/templates/forgot-password.htmlを編集する">
-      <option name="closed" value="true" />
-      <created>1712535798585</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1712535798585</updated>
-    </task>
     <task id="LOCAL-00187" summary="Admin/src/main/resources/templates/fragments.htmlを編集する">
       <option name="closed" value="true" />
       <created>1712536050569</created>
@@ -504,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712972254319</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="Library/src/main/java/com.ecommerce.library/serviceにCategoryServiceに作成する">
+      <option name="closed" value="true" />
+      <created>1712972449478</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1712972449478</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
